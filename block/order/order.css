@@ -1,0 +1,33 @@
+/* Order 
+*************************************************************************************/
+.order {
+    height: 740px;
+    background-color: #FAFAFA;
+}
+
+.order__inner {
+
+}
+
+.order__delivery {
+    width: 50%;
+    float: left;
+    margin: 70px 0;
+}
+
+.order__img {
+
+}
+
+.order__content {
+    width: 50%;
+    float: right;
+    margin-top: 241px;
+}
+
+.order__title {
+    font-size: 61px;
+    line-height: 1.2;
+    color: #212529;
+    margin-bottom: 23px;
+}

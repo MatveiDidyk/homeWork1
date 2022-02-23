@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('./block/header/header.css');
+@import url('./block/intro/intro.css');
+@import url('./block/info/info.css');
+@import url('./block/about/about.css');
+@import url('./block/delivery/delivery.css');
+@import url('./block/tracking/tracking.css');
+@import url('./block/order/order.css');
+@import url('./block/location/location.css');
+@import url('./block/questions/questions.css');
+@import url('./block/localli/localli.css');
+@import url('./block/footer/footer.css');
+
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+/* Conteiner 
+**************************************************************************/
+.conteiner {
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+/* batton 
+**********************************************************************/
+.button__all {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #000;
+    padding: 12px 32px;
+    background: #000;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
