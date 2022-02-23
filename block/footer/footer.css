@@ -1,0 +1,61 @@
+/* Footer 
+********************************************************************/
+.footer {
+    padding-top: 90px;
+}
+
+.footer__inner {
+    height: 238px;
+    border-top: 1px solid #E5E5E5;
+}
+
+.footer__info {
+    margin-top: 40.13px;
+}
+
+.footer__content {
+    float: left;
+}
+
+.footer__logo {
+
+}
+
+.footer__img {
+
+}
+
+.footer__text {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #A6A6A6;
+}
+
+.footer__list {
+    
+}
+
+.footer__item {
+    float: right;
+}
+
+.footer__title {
+    font-size: 15px;
+    color: #A6A6A6;
+}
+
+.footer__menu {
+
+}
+
+.footer__link {
+    list-style-type: none;    
+}
+
+.footer__link--style {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+}

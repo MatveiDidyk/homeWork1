@@ -1,0 +1,28 @@
+/* Questions 
+******************************************************************/
+.questions {
+    height: 700px;
+}
+
+.questions__inner {
+    padding-top: 100px;
+    text-align: center;
+}
+
+
+.questions__title {
+    font-size: 61px;
+}
+
+.questions__overtitle {
+    font-size: 16px;
+    color: #A6A6A6;
+}
+
+.questions__questions {
+
+}
+
+.questions__img {
+
+}

@@ -1,0 +1,39 @@
+/* Tracking 
+***********************************************************************/
+.tracking {
+    height: 450px;
+    margin-top: 80px;
+}
+
+.tracking__inner {
+    /* height: 522px; */
+}
+
+.tracking__content {
+    width: 50%;
+    float: left;
+}
+
+.tracking__title {
+    font-size: 61px;
+    line-height: 1.2;
+    margin: 25px 0;
+}
+
+.tracking__text {
+    color: #212529;
+}
+
+.tracking__button {
+    margin-top: 27px;
+}
+
+.tracking__picture {
+    width: 50%;
+    float: right;
+}
+
+.tracking__img {
+    display: block;
+    margin: 0 auto;
+}

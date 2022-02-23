@@ -1,0 +1,53 @@
+/* Info 
+*************************************************************************************/
+.info {
+    padding-top: 55px;
+    padding-bottom: 94px;
+}
+
+.info__inner {
+    
+}
+
+.info__header {
+    
+}
+
+.info__menu {
+    width: 1050px;
+    margin: 0 auto;
+}
+
+.info__link {
+    display: block;
+    margin-right: 92px;
+    margin-bottom: 40px;
+    float: left;
+}
+
+.info__link:last-child {
+    margin-right: 0;
+}
+
+.info__link--style {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+}
+
+.info__link--color {
+    color: green;
+    margin-right: 10px;
+}
+
+.info__picture {
+    
+}
+
+.info__img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
